@@ -3,7 +3,7 @@ name = "cmel"
 version = "0.1.0"
 authors = ["johnrieth <john.rieth@outlook.com>"]
 description = "A computational and mathematical engineering library"
-keywords = ["mathematics", "economics", "]
+keywords = ["mathematics", "economics"]
 categories = ["science"]
 
 [dependencies]
