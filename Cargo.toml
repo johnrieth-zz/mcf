@@ -1,9 +1,9 @@
 [package]
-name = "cmel"
+name = "mcf"
 version = "0.1.0"
 authors = ["johnrieth <john.rieth@outlook.com>"]
-description = "A computational and mathematical engineering library"
-keywords = ["mathematics", "economics"]
+description = "Computational and mathematical finance"
+keywords = ["mathematics", "finance", "economics", ]
 categories = ["science"]
 
 [dependencies]
